@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="button_c">C</string>
+    <string name="open_bracket">(</string>
+    <string name="close_bracket">)</string>
+    <string name="divide_symbol">/</string>
+    <string name="button_7">7</string>
+    <string name="button_8">8</string>
+    <string name="_9">9</string>
+    <string name="button_multiply">*</string>
+    <string name="button_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="button_subtraction">-</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="button_addition">+</string>
+    <string name="button_ac">AC</string>
+    <string name="_0">0</string>
+    <string name="button_dot">.</string>
+    <string name="button_equsl">=</string>
+    <string name="textfielt_dflt_0">0</string>
+</resources>
